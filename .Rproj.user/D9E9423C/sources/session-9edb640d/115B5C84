@@ -3,9 +3,9 @@
     "path": "~/GitHub/buntu_hello_world/main.R",
     "project_path": "main.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "145730536",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1713174668718.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1713174668,
+    "lastKnownWriteTime": 1713175005,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1713174689797,
+    "last_content_update": 1713175005565,
     "read_only": false,
     "read_only_alternatives": []
 }
